@@ -37,15 +37,15 @@ It helps organizations identify key factors leading to attrition and predict the
 
 ## 📑 Project Structure
 
-├── app.py                  # Streamlit Dashboard
-├── train_model.py          # Model training script
-├── best_model.pkl          # Saved ML model
-├── Employee-Attrition.csv  # Dataset
-├── employeeeda.ipynb       # Notebook for EDA
-├── employeeml.ipynb        # Notebook for ML models
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-└── /images                 # Screenshots for README
+├── app.py                            # Streamlit Dashboard
+├── train_model.py                    # Model training script
+├── best_model.pkl                    # Saved ML model
+├── Employee-Attrition.csv            # Dataset
+├── employeeeda.ipynb                 # Notebook for EDA
+├── employeeml.ipynb                  # Notebook for ML models
+├── requirements.txt                  # Python dependencies
+├── README.md                         # Project documentation
+└── /images                           # Screenshots for README
 
 
 ## ⚙️ Installation & Setup
