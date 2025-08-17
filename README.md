@@ -35,14 +35,17 @@ It helps organizations identify key factors leading to attrition and predict the
 
 ---
 
-## 📂 Folder Structure
-├── empapp.py                # Streamlit Dashboard
-├── train_model.py        # Model training script
-├── best_model.pkl        # Saved ML model
-├── Employee-Attrition.csv # Dataset
-├── requirements.txt      # Python dependencies
-├── README.md             # Project documentation
-└── /images               # Screenshots for README
+## 📑 Project Structure
+
+├── app.py                  # Streamlit Dashboard
+├── train_model.py          # Model training script
+├── best_model.pkl          # Saved ML model
+├── Employee-Attrition.csv  # Dataset
+├── employeeeda.ipynb       # Notebook for EDA
+├── employeeml.ipynb        # Notebook for ML models
+├── requirements.txt        # Python dependencies
+├── README.md               # Project documentation
+└── /images                 # Screenshots for README
 
 
 ## ⚙️ Installation & Setup
@@ -61,14 +64,23 @@ It helps organizations identify key factors leading to attrition and predict the
 pip install -r requirements.txt
 ```
 
-### 3. Train the model
+### 3. Run the Jupyter Notebooks
+
+```bash
+jupyter notebook
+```
+***Open employeeeda.ipynb → For Exploratory Data Analysis
+***Open employeeml.ipynb → For Model Training & Evaluation
+
+### 4. Train the model
 
 ```bash
 python train_model.py
 ```
 This will save the best model as best_model.pkl.
 
-### 4. Run the Streamlit Dashboard
+
+### 5. Run the Streamlit Dashboard
 
 ```bash
 streamlit run empapp.py
