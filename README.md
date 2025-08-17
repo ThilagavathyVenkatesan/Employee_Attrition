@@ -72,8 +72,8 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-Open employeeeda.ipynb → For Exploratory Data Analysis
-Open employeeml.ipynb → For Model Training & Evaluation
+⭕Open employeeeda.ipynb → For Exploratory Data Analysis
+⭕Open employeeml.ipynb → For Model Training & Evaluation
 
 ### 4. Train the model
 
