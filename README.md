@@ -35,9 +35,41 @@ It helps organizations identify key factors leading to attrition and predict the
 
 ---
 
+## 📂 Folder Structure
+├── empapp.py                # Streamlit Dashboard
+├── train_model.py        # Model training script
+├── best_model.pkl        # Saved ML model
+├── Employee-Attrition.csv # Dataset
+├── requirements.txt      # Python dependencies
+├── README.md             # Project documentation
+└── /images               # Screenshots for README
+
+
 ## ⚙️ Installation & Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/employee-attrition-analysis.git
-   cd employee-attrition-analysis
+### 1. Clone the Repository
+
+```bash
+   git clone https://github.com/ThilagavathyVenkatesan/Employee_Attrition.git
+   cd Employee_Attrition
+```
+
+
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Train the model
+
+```bash
+python train_model.py
+```
+This will save the best model as best_model.pkl.
+
+### 4. Run the Streamlit Dashboard
+
+```bash
+streamlit run empapp.py
+```
