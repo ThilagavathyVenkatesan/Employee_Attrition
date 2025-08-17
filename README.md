@@ -38,14 +38,17 @@ It helps organizations identify key factors leading to attrition and predict the
 ## 📑 Project Structure
 
 ```
-securecheck
+Employee_Attrition
 │
-├── securepolicelog.py           # Main Streamlit App
-├── clean_data.py                # Script to clean and preprocess raw data
-├── data_insert.py               # Script to load cleaned data into MySQL
-├── cleaned_traffic_data.csv     # Cleaned CSV data file
-├── requirements.txt             # Python dependencies
-└── README.md                    # Project documentation
+├── app.py                  # Streamlit Dashboard
+├── train_model.py          # Model training script
+├── best_model.pkl          # Saved ML model
+├── Employee-Attrition.csv  # Dataset
+├── employeeeda.ipynb       # Notebook for EDA
+├── employeeml.ipynb        # Notebook for ML models
+├── requirements.txt        # Python dependencies
+├── README.md               # Project documentation
+└── /images                 # Screenshots for README
 ```
 
 ## ⚙️ Installation & Setup
@@ -69,8 +72,8 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-***Open employeeeda.ipynb → For Exploratory Data Analysis
-***Open employeeml.ipynb → For Model Training & Evaluation
+Open employeeeda.ipynb → For Exploratory Data Analysis
+Open employeeml.ipynb → For Model Training & Evaluation
 
 ### 4. Train the model
 
