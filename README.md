@@ -105,6 +105,21 @@ streamlit run empapp.py
 <img width="1366" height="768" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/9c83e25e-3bcb-41c8-b9bd-6a550ce1c2b4" />
 
 
+---
+
+## ❇️ Credits
+
+Built with ❤️ using  
+- [Streamlit](https://streamlit.io/) – Interactive Dashboards  
+- [scikit-learn](https://scikit-learn.org/) – Machine Learning Models  
+- [LightGBM](https://lightgbm.readthedocs.io/) & [XGBoost](https://xgboost.readthedocs.io/) – Gradient Boosting Models  
+- [Pandas](https://pandas.pydata.org/) & [NumPy](https://numpy.org/) – Data Processing  
+- [Matplotlib](https://matplotlib.org/) & [Seaborn](https://seaborn.pydata.org/) – Data Visualization  
+- [Jupyter Notebook](https://jupyter.org/) – EDA & Model Development  
+
+
+
+
 
 
 
