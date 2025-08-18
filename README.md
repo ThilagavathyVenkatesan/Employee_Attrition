@@ -48,7 +48,7 @@ Employee_Attrition
 ├── employeeml.ipynb        # Notebook for ML models
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
-└── /images                 # Screenshots for README
+└── Screenshots             # Screenshots for README
 ```
 
 ## ⚙️ Installation & Setup
@@ -88,3 +88,30 @@ This will save the best model as best_model.pkl.
 ```bash
 streamlit run empapp.py
 ```
+
+
+## 📸 Screenshots
+<img width="1366" height="768" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/e87950cd-13b1-4026-baa9-5023fbff963d" />
+<img width="1366" height="768" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/37348206-78f1-4bb8-bbba-42947ea4efa2" />
+<img width="1366" height="768" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/38e087d5-c48b-4500-96fa-f146933de6f6" />
+<img width="1366" height="768" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/59965fb6-e526-4644-89aa-0173c5eb0bc3" />
+<img width="1366" height="768" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/9a53b4d3-7e91-415b-bb05-a928abeb9098" />
+<img width="1366" height="768" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/703d81f6-5ece-4328-a9fe-726d3e9f8653" />
+<img width="1366" height="768" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/bb9d6df4-d6ed-400e-aeee-666eb8ad12e4" />
+<img width="1366" height="768" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/e0e51e43-bf31-4ff5-97c6-32bc8a0ab6c5" />
+<img width="1366" height="768" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/8a0faee7-8620-4c7f-b419-7a3a7b753ce1" />
+<img width="1366" height="768" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/859a71ed-e782-4ec4-a88c-2898cdbe161d" />
+<img width="1366" height="768" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/24c08420-b86f-4ef7-b707-a0ea7fcd7ad3" />
+<img width="1366" height="768" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/9c83e25e-3bcb-41c8-b9bd-6a550ce1c2b4" />
+
+
+
+
+
+
+
+
+
+
+
+
